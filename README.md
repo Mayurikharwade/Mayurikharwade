@@ -16,11 +16,11 @@
 ---
 
 ### 📂 Projects
--  Smart City Traveler (Java, JSP, Servlets, Oracle DB)
-- User Registration & Login System
--  JDBC CRUD Operations (Insert, Update, Delete, Select)
--  Java Logical Programs
--  Java OOP Concepts (Inheritance & Types)
+-  Smart City Traveler 
+-  MediCare Hub
+-  SmartBank Core System
+-  ProductFlow Manager
+-  GroceryEase Platform
 
 ---
 

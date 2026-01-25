@@ -1,0 +1,41 @@
+## Hi I'm Mayuri Kharwade
+
+ Java Full Stack Developer  
+ Passionate about backend development and problem solving  
+ Learning, building, and improving every day
+
+---
+
+###  Skills
+- Java
+- JDBC
+- Servlets & JSP
+- Oracle SQL
+- GitHub
+
+---
+
+### 📂 Projects
+-  Smart City Traveler (Java, JSP, Servlets, Oracle DB)
+- User Registration & Login System
+-  JDBC CRUD Operations (Insert, Update, Delete, Select)
+-  Java Logical Programs
+-  Java OOP Concepts (Inheritance & Types)
+
+---
+
+ Currently Learning
+- Advanced Java
+- Backend Development
+- Interview-focused problem solving
+
+---
+
+###  Career Goal
+To start my career as a Java Backend grow as a software engineer.
+
+---
+
+###  Connect with Me
+- GitHub: https://github.com/Mayurikharwade
+

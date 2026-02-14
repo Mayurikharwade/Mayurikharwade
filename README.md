@@ -1,6 +1,6 @@
 ## Hi I'm Mayuri Kharwade
 
- Java Full Stack Developer  
+ Java Backend Developer  
  Passionate about backend development and problem solving  
  Learning, building, and improving every day
 
